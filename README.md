@@ -1,5 +1,5 @@
 ## Convert Neonatal Growth Curve Spreadsheets to JSON
-This Python notebook provides a script to convert Dr. Fou-Sheng Chou's neonatal growth curve data, which is stored in spreadsheets, into JSON files sorted by gestational age and sex. This data is used in the NicuGrowth application. The notebook utilizes the Pandas library for data manipulation and the Openpyxl library for handling Excel files.
+This Python notebook provides a script to convert neonatal growth curve data, which is stored in spreadsheets, into JSON files sorted by gestational age and sex. This data is used in the NicuGrowth application. The notebook utilizes the Pandas library for data manipulation and the Openpyxl library for handling Excel files.
 
 ## Features
 - Converts neonatal growth curve data from spreadsheets to JSON files.
