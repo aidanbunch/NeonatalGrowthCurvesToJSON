@@ -11,6 +11,3 @@ This Python notebook provides a script to convert neonatal growth curve data, wh
 1. Open the notebook file growth_curve_sheets_2_json.ipynb in a Jupyter Notebook environment or any compatible notebook viewer.
 2. Run the notebook cells sequentially to convert the neonatal growth curve spreadsheets to JSON files.
 3. The converted JSON files will be saved in the same directory as the notebook, organized by gestational age group and sex.
-
-## Acknowledgements
-The conversion script in this repository is based on the research and data provided by Dr. Fou-Sheng Chou. We acknowledge his contribution and appreciate the opportunity to work with this valuable dataset.
